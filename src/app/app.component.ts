@@ -20,7 +20,7 @@ export class AppComponent {
     },
   ]
 
-  exibirAlerta(has: string) {
-    alert(`O palmeiras ${has} mundial`);
-  }
+  // exibirAlerta(has: string) {
+  // alert(`O palmeiras ${has} mundial`);
+  // }
 }
